@@ -1,5 +1,6 @@
 #Note Taker
 A simple application that allows users to write and save notes. It uses an Express.js back-end and stores note data in a JSON file.
+![img](https://github.com/bbwax/miniature-eureka/blob/main/public/img/pic.png?raw=true)
 
 ##Installation
 To install the application, follow these steps:
